@@ -23,3 +23,7 @@ in object mode, Object > Apply > scale
 ### Export fbx with textures
 
 https://www.youtube.com/watch?v=kEP34CbPWUo
+
+### center on selected object
+
+- decimal point key on number pad
